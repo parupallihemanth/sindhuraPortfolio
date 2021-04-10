@@ -38,8 +38,6 @@ const Header = () => {
             className={classes.tabsContainer}
             indicatorColor='primary'
             textColor='primary'
-            // onChange={(event, newValue) => setValue(newValue)}
-            // value={value}
             aria-label='disabled tabs example'
           >
             <Tab
